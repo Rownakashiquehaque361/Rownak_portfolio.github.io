@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Rownak Ashique Haque 
+title: Sharmin Jahan 
 
 # Full name ()
-first_name: Rownak Ashique
-last_name: Haque
+first_name: Sharmin
+last_name: Jahan
 
 # Status emoji
 status:
@@ -28,21 +28,21 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your assets/media/icons/ folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:rownakdristi50@gmail.com'
+    url: 'mailto:sharminjahan12th@.com'
     label: E-mail Me
   - icon: brands/instagram
-    url: https://www.instagram.com/rownakdristi?igsh=NG1ubWwycjFqb3d6
+    url: https://www.instagram.com/sharminjahan.sathi/profilecard/?igsh=MXVoand6MWpqcGcwdg==
   - icon: brands/github
-    url: https://github.com/Rownakashiquehaque361
+    url: https://github.com/Sharmin-jahan-sathi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/rownak-ashique-haque-664924200/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzbDsivBITei%2FMTNaNcKBCA%3D%3D
+    url: https://bd.linkedin.com/in/sharmin-jahan-sathi-a47103329
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intellegent
+  - Web Development
   - IOT
   - Robotics
 
@@ -50,34 +50,35 @@ education:
   - area: Department of Computer Science and Engineering
     institution: Jahangirnagar University
     date_start: 2022-05-01
-    date_end: currently studying
+    date_end: ''
     
   - area: Higher Secondary School Certificate
-    institution: Dinajpur Govt. College
+    institution: Dinajpur Govt.Women College
     date_start: 2018-01-01
-    date_end: 2020-06-01
+    date_end: 2020-05-01
     summary: |
-      GPA: 5.00
+      GPA: 5.0/5.0
 
   - area: Secondary School Certificate
-    institution: Dinajpur Govt. Girls High School
+    institution: Shohid Faruqe Iqbal Girls High School
     date_start: 2016-01-01
-    date_end:  2018-04-01
+    date_end: 2018-04-01
     summary: |
-      GPA: 5.00
+      GPA: 5.0/5.0
+
 
 # Skills
 # Add your own SVG icons to assets/media/icons/
 skills:
   - name: Technical Skills
     items:
-      - name: Artificial Intelligent
+      - name: Web Development
         description: ''
-        percent: 67
+        percent: 80
         icon: code-bracket
       - name: IOT
         description: ''
-        percent: 30
+        percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
