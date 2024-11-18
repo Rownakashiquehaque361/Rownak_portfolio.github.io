@@ -1,16 +1,14 @@
 ---
 # Display name
-title: Rownak
+title: Sharmin Jahan 
 
-
-
-# Full name (for SEO)
-first_name: Rownak Ashique
-last_name: Haque
+# Full name ()
+first_name: Sharmin
+last_name: Jahan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌿
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,62 +22,61 @@ role: Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Jahangirnagar University
-    url:  https://juniv.edu/
+    url: https://juniv.edu/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Need to use another icon? Simply download the SVG icon to your assets/media/icons/ folder.
 profiles:
   - icon: at-symbol
-    url: 'mailtorownakdristi50@gmail.com'
+    url: 'mailto:sharminjahan12th@.com'
     label: E-mail Me
   - icon: brands/instagram
-    url: https://www.instagram.com/rownakdristi?igsh=NG1ubWwycjFqb3d6
+    url: https://www.instagram.com/sharminjahan.sathi/profilecard/?igsh=MXVoand6MWpqcGcwdg==
   - icon: brands/github
-    url: https://github.com/Rownakashiquehaque361
+    url: https://github.com/Sharmin-jahan-sathi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/rownak-ashique-haque-664924200/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrddfOAVeRqiy72r4f4cItw%3D%3D
+    url: https://bd.linkedin.com/in/sharmin-jahan-sathi-a47103329
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Robotics
+  - Web Development
   - IOT
+  - Robotics
 
 education:
-  - area: Computer Science And Engineering
+  - area: Department of Computer Science and Engineering
     institution: Jahangirnagar University
-    date_start: 2022-05-23
-    date_end: currently studying
+    date_start: 2022-05-01
+    date_end: ''
     
-   
-  - area: HSC
-    institution: Dinajpur Govt. College
-    date_start: 2018-06-01
-    date_end: 2020-04-01
+  - area: Higher Secondary School Certificate
+    institution: Dinajpur Govt.Women College
+    date_start: 2018-01-01
+    date_end: 2020-05-01
     summary: |
-      GPA: 5.00
+      GPA: 5.0/5.0
 
-  - area: SSC
-    institution: Dinajpur Govt. Girls' High School
+  - area: Secondary School Certificate
+    institution: Shohid Faruqe Iqbal Girls High School
     date_start: 2016-01-01
     date_end: 2018-04-01
     summary: |
-      GPA: 5.00
-      
+      GPA: 5.0/5.0
+
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Add your own SVG icons to assets/media/icons/
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Web Development
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: IOT
         description: ''
         percent: 100
         icon: chart-bar
@@ -109,11 +106,10 @@ languages:
     percent: 100
   - name: English
     percent: 75
-
-    
+  
 
 ---
 
 ## About Me
 
-Hello! I’m Rownak Ashique Haque, a passionate Computer Science and Engineering student at Jahangirnagar University. My journey in the world of technology is driven by curiosity and a desire to explore the vast possibilities of the software sector. I enjoy solving problems, building innovative solutions, and continuously learning new technologies. My goal is to contribute to impactful projects and further develop my skills in software development, web technologies, and computer science fundamentals.
+I am Sharmin Jahan Sathi, a Computer Science and Engineering student at Jahangirnagar University with a deep interest in web development,IOT and Robotics. I am passionate about designing innovative, efficient, and user-friendly web applications that push the boundaries of creativity and technology. I am particularly drawn to crafting user-centric web applications, exploring the possibilities of interconnected systems, and advancing intelligent automation. My vision is to create digital solutions that not only solve real-world problems but also inspire seamless interaction. Fueled by determination and a growth mindset, I am eager to make my mark in the ever-evolving realm of web technology.
