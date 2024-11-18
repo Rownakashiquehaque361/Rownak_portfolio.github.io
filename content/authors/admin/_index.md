@@ -24,13 +24,13 @@ role: Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Jahangirnagar University
-    url: https://juniv.edu/
+    url:  https://juniv.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:rownakdristi50@gmail.com'
+    url: 'mailtorownakdristi50@gmail.com'
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/rownakdristi?igsh=NG1ubWwycjFqb3d6
@@ -109,6 +109,8 @@ languages:
     percent: 100
   - name: English
     percent: 75
+
+    
 
 ---
 
