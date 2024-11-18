@@ -62,10 +62,9 @@ education:
   - area: Secondary School Certificate
     institution: Dinajpur Govt. Girls High School
     date_start: 2016-01-01
-    date_end: 2018-04-01
+    date_end:  2018-04-01
     summary: |
       GPA: 5.00
-
 
 # Skills
 # Add your own SVG icons to assets/media/icons/
