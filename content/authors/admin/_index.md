@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sharmin Jahan 
+title: Rownak Ashique Haque 
 
 # Full name ()
-first_name: Sharmin
-last_name: Jahan
+first_name: Rownak Ashique
+last_name: Haque
 
 # Status emoji
 status:
@@ -28,21 +28,21 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your assets/media/icons/ folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:sharminjahan12th@.com'
+    url: 'mailto:rownakdristi50@gmail.com'
     label: E-mail Me
   - icon: brands/instagram
-    url: https://www.instagram.com/sharminjahan.sathi/profilecard/?igsh=MXVoand6MWpqcGcwdg==
+    url: https://www.instagram.com/rownakdristi?igsh=NG1ubWwycjFqb3d6
   - icon: brands/github
-    url: https://github.com/Sharmin-jahan-sathi
+    url: https://github.com/Rownakashiquehaque361
   - icon: brands/linkedin
-    url: https://bd.linkedin.com/in/sharmin-jahan-sathi-a47103329
+    url: https://www.linkedin.com/in/rownak-ashique-haque-664924200/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzbDsivBITei%2FMTNaNcKBCA%3D%3D
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Web Development
+  - Artificial Intellegent
   - IOT
   - Robotics
 
@@ -50,21 +50,21 @@ education:
   - area: Department of Computer Science and Engineering
     institution: Jahangirnagar University
     date_start: 2022-05-01
-    date_end: ''
+    date_end: currently studying
     
   - area: Higher Secondary School Certificate
-    institution: Dinajpur Govt.Women College
+    institution: Dinajpur Govt. College
     date_start: 2018-01-01
-    date_end: 2020-05-01
+    date_end: 2020-06-01
     summary: |
-      GPA: 5.0/5.0
+      GPA: 5.00
 
   - area: Secondary School Certificate
-    institution: Shohid Faruqe Iqbal Girls High School
+    institution: Dinajpur Govt. Girls High School
     date_start: 2016-01-01
     date_end: 2018-04-01
     summary: |
-      GPA: 5.0/5.0
+      GPA: 5.00
 
 
 # Skills
@@ -72,13 +72,13 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Web Development
+      - name: Artificial Intelligent
         description: ''
-        percent: 80
+        percent: 67
         icon: code-bracket
       - name: IOT
         description: ''
-        percent: 100
+        percent: 30
         icon: chart-bar
       - name: SQL
         description: ''
@@ -112,4 +112,4 @@ languages:
 
 ## About Me
 
-I am Sharmin Jahan Sathi, a Computer Science and Engineering student at Jahangirnagar University with a deep interest in web development,IOT and Robotics. I am passionate about designing innovative, efficient, and user-friendly web applications that push the boundaries of creativity and technology. I am particularly drawn to crafting user-centric web applications, exploring the possibilities of interconnected systems, and advancing intelligent automation. My vision is to create digital solutions that not only solve real-world problems but also inspire seamless interaction. Fueled by determination and a growth mindset, I am eager to make my mark in the ever-evolving realm of web technology.
+Hello! I’m Rownak Ashique Haque, a passionate Computer Science and Engineering student at Jahangirnagar University. My journey in the world of technology is driven by curiosity and a desire to explore the vast possibilities of the software sector. I enjoy solving problems, building innovative solutions, and continuously learning new technologies. My goal is to contribute to impactful projects and further develop my skills in software development, web technologies, and computer science fundamentals.
